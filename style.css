@@ -1,0 +1,46 @@
+.menu {
+    font-family: sans-serif;
+    position: fixed;
+    list-style: none;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.links {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    float: left;
+    color: white;
+    font-family: fantasy;
+    font-size: 20;
+}
+
+.links:hover {
+    background-color: crimson;
+}
+p{
+text-align:center;
+}
+h1{
+text shadow:2px 2px #F8BBDO;
+font-size:20px;
+    text-align: center
+}
+p{
+font-size:18px;
+colour: #6A1B9A;
+}
+img{
+    height: 50px;
+    width: 50px;
+    text-align: left;
+}
+body{
+    baground:linear gradient(#E1BEE7 0% #90KAF9 100% );
+baground repeat: no repeat ;
+    background-color: fuchsia;
+}
